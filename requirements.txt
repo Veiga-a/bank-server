@@ -1,2 +1,5 @@
 FastAPI
 uvicorn[standard]
+sqlalchemy
+alembic
+psycopg[binary]

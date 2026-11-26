@@ -1,5 +1,7 @@
-FastAPI
+fastapi
 uvicorn[standard]
-sqlalchemy
-alembic
-psycopg[binary]
+sqlalchemy>=2.0
+psycopg[binary]>=3.2
+pwdlib[argon2]
+PyJWT
+python-multipart
